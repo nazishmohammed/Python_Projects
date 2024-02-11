@@ -45,8 +45,9 @@ Execute the Python script using the following command:
 
 ## Example Output
 Please note that the number of stars in each row will correspond to the row number
-Enter the number of rows in which you want stars: 5
+
    ```
+   Enter the number of rows in which you want stars: 5 
    *
    **
    ***
